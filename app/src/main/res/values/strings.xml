@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FaceDetectionApp</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_id">Enter ID</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
